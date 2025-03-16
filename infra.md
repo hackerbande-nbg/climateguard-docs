@@ -17,3 +17,5 @@ Firewall (Hetzner cloud): allowed port 80, 81, 443, 22, ICMP
 Working dir: /opt/quantum/
 
 github user with github action runner in /home/github (according to andi, this is best practice *eyeroll*)
+
+User:Group for services: quantum:quantumgrp
