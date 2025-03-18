@@ -6,3 +6,6 @@ https://miro.com/app/board/uXjVKgZp_hM=/
 
 [infra](infra.md)
 
+# Quantum telemetry docs
+
+[quantum-telemetry](quantum-telemetry.md)
