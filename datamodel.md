@@ -1,4 +1,4 @@
-# metrics
+# sensormetrics
 - timestamp_device
 - timestamp_server
 - temperature
