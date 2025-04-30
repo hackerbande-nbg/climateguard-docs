@@ -9,3 +9,7 @@ https://miro.com/app/board/uXjVKgZp_hM=/
 # Quantum telemetry docs
 
 [quantum-telemetry](quantum-telemetry.md)
+
+# Hardware
+[Hardware](./hardware/hardware.md)
+[Inventory](./hardware/inventory.md)
