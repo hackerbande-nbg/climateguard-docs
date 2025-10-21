@@ -125,3 +125,5 @@ _Reason for exclusion:_ Used for fine-grained timing correlation; adds no busine
 # Supporting Data
 
 ## Sample Payload
+
+[new_lorawan_fields-sample.json](new_lorawan_fields-sample.json)
