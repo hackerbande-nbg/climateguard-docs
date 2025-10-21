@@ -124,6 +124,10 @@ _Reason for exclusion:_ Used for fine-grained timing correlation; adds no busine
 
 # Supporting Data
 
+## LoRAWAN Timing Diagram
+
+![alt text](image.png)
+
 ## Sample Payload
 
 [new_lorawan_fields-sample.json](new_lorawan_fields-sample.json)
