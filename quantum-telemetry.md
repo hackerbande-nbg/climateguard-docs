@@ -1,0 +1,13 @@
+# Env Setup
+
+## env.prod
+
+QUANTUM_ENV="prod"
+DB_PORT=8100
+FASTAPI_PORT=8000
+
+## env.stage
+
+QUANTUM_ENV="prod"
+DB_PORT=8101
+FASTAPI_PORT=8001

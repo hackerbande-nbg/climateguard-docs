@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 5.1.3" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-Sensorideen</name>
+  </metadata>
+  <wpt lat="49.4412704" lon="11.0811523">
+    <time>2025-07-03T19:18:31Z</time>
+    <name>Apotheke irgendwas</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4384906" lon="11.0832439">
+    <time>2025-07-03T19:05:47Z</time>
+    <name>Balkone rechts links, Straße ohne Bäume</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Kopernikusstraße 10, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4365446" lon="11.0890561">
+    <time>2025-07-03T18:27:37Z</time>
+    <name>Bäume, Fahnenmasten</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4352392" lon="11.0885995">
+    <ele>318</ele>
+    <time>2025-07-03T18:33:16Z</time>
+    <name>Bogen obendrauf, Schild davor</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4440505" lon="11.0772419">
+    <time>2025-07-03T19:29:05Z</time>
+    <name>Bogen oder Hahn</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4390084" lon="11.088558">
+    <time>2025-07-03T19:50:00Z</time>
+    <name>Bühler Masten</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4378121" lon="11.0904234">
+    <ele>314</ele>
+    <time>2025-07-03T18:18:36Z</time>
+    <name>Fahnenmasten, Parkautomatmast</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Allersberger Straße, Hummelstein</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4413932" lon="11.0794414">
+    <ele>307.5</ele>
+    <time>2025-07-03T19:22:37Z</time>
+    <name>Ist das ein Wasserspiel, Laterne</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4440296" lon="11.0780367">
+    <ele>308</ele>
+    <time>2025-07-03T19:27:25Z</time>
+    <name>Komische Gitterkonstruktion oder Riesenmast</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Willy-Prölß-Platz, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.44108" lon="11.0926982">
+    <ele>310.2</ele>
+    <time>2025-07-03T20:16:14Z</time>
+    <name>Kunstwerk auf großem leeren Platz</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Hintere Bleiweißstraße, Glockenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4388809" lon="11.0818253">
+    <time>2025-07-03T19:09:26Z</time>
+    <name>Lampe am Wasser</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Kopernikusplatz 19, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4362018" lon="11.0809315">
+    <time>2025-07-03T18:53:47Z</time>
+    <name>Laterne</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Gabelsbergerstraße, Hummelstein</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.437165" lon="11.083936">
+    <ele>315</ele>
+    <time>2025-07-03T18:59:37Z</time>
+    <name>Laterne (1)</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4388581" lon="11.0882524">
+    <ele>311</ele>
+    <time>2025-07-03T19:51:24Z</time>
+    <name>Laterne (2)</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4382352" lon="11.0891575">
+    <ele>312.8</ele>
+    <time>2025-07-03T19:53:36Z</time>
+    <name>Laterne (3)</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4484923" lon="11.0868467">
+    <time>2025-07-03T20:24:25Z</time>
+    <name>Laterne auf Verkehrsinsel</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Marienstraße, Nürnberg</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4483444" lon="11.0864064">
+    <time>2025-07-03T20:24:06Z</time>
+    <name>Laterne auf Willy</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Willy-Brandt-Platz (Galgenhof) 15, Nürnberg</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4340563" lon="11.0856278">
+    <ele>314.5</ele>
+    <time>2025-07-03T18:39:49Z</time>
+    <name>Laterne Mittelstreifen</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Pillenreuther Straße</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4406254" lon="11.0919599">
+    <ele>309</ele>
+    <time>2025-07-03T20:15:06Z</time>
+    <name>Laterne ohne Bäume</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Hintere Bleiweißstraße 4, Glockenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4422334" lon="11.0790875">
+    <ele>308</ele>
+    <time>2025-07-03T19:24:44Z</time>
+    <name>Laterne über Parkplätzen</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4403769" lon="11.0911266">
+    <ele>311</ele>
+    <time>2025-07-03T20:14:08Z</time>
+    <name>Laterne unter Bäumen</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Holzstraße, Glockenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4407391" lon="11.0802092">
+    <time>2025-07-03T19:13:33Z</time>
+    <name>Laterne, riesen Pfahl bei Fahrstuhl, Ubahn schild</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Aufseßplatz, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4374415" lon="11.0894982">
+    <ele>313.5</ele>
+    <time>2025-07-03T19:55:51Z</time>
+    <name>Laternen auf Parkplatz</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4352114" lon="11.0796207">
+    <time>2025-07-03T18:51:57Z</time>
+    <name>Laternenmasten am Rand</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Schuckertplatz 1a, Hummelstein</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4414255" lon="11.0815509">
+    <time>2025-07-03T19:37:37Z</time>
+    <name>Mast ohne Baum</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.437511" lon="11.0825329">
+    <ele>310</ele>
+    <time>2025-07-03T19:01:50Z</time>
+    <name>Mitte Straße Laterne</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Pillenreuther Straße, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4376036" lon="11.0828508">
+    <time>2025-07-03T19:01:39Z</time>
+    <name>Rand Laterne</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4406068" lon="11.0834939">
+    <ele>308</ele>
+    <time>2025-07-03T19:40:03Z</time>
+    <name>Riesenmast</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4404023" lon="11.0900842">
+    <ele>310</ele>
+    <time>2025-07-03T20:12:31Z</time>
+    <name>Riesenmast zwischen Bäumen</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Humboldtstraße, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4438159" lon="11.0828125">
+    <time>2025-07-03T19:30:28Z</time>
+    <name>Scheißplatz</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:amenity_subtype>artwork</osmand:amenity_subtype>
+      <osmand:address>Hummelsteiner Weg, Galgenhof</osmand:address>
+      <osmand:amenity_origin>Amenity:Rolihlahla: tourism:artwork</osmand:amenity_origin>
+      <osmand:osm_tag_artwork_type_sculpture>sculpture</osmand:osm_tag_artwork_type_sculpture>
+      <osmand:amenity_name>Rolihlahla</osmand:amenity_name>
+      <osmand:osm_tag_artist_name>Andrea Knobloch;Ute Vorkoeper</osmand:osm_tag_artist_name>
+      <osmand:osm_tag_wikidata>Q134485990</osmand:osm_tag_wikidata>
+      <osmand:icon>tourism_artwork</osmand:icon>
+      <osmand:amenity_type>tourism</osmand:amenity_type>
+      <osmand:osm_tag_image>https://commons.wikimedia.org/wiki/File:Rolihlahla_(N%C3%BCrnberg)_1.jpg</osmand:osm_tag_image>
+      <osmand:osm_tag_description>In Acrylblock eingeschmolzener Rohdiamant</osmand:osm_tag_description>
+      <osmand:osm_tag_start_date>2021-10</osmand:osm_tag_start_date>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4345199" lon="11.0870386">
+    <ele>314.5</ele>
+    <time>2025-07-03T18:37:00Z</time>
+    <name>Schild, oder Bäume am Spielplatz</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4392159" lon="11.0903543">
+    <ele>311.8</ele>
+    <time>2025-07-03T20:10:16Z</time>
+    <name>Schilder an Kreuzung</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Allersberger Straße, Glockenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4437712" lon="11.0790994">
+    <ele>307.8</ele>
+    <time>2025-07-03T19:33:46Z</time>
+    <name>SPD masten</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Celtisstraße 8, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4401884" lon="11.0887656">
+    <ele>309</ele>
+    <time>2025-07-03T19:46:42Z</time>
+    <name>Straßenschild</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Dallingerstraße, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4391048" lon="11.0891399">
+    <time>2025-07-03T19:48:53Z</time>
+    <name>Straßenschilder an den 4 Ecken</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Anne-Frank-Straße, Galgenhof</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.4363635" lon="11.0833298">
+    <ele>311</ele>
+    <time>2025-07-03T18:55:27Z</time>
+    <name>Ubahn Schilder Laternenmasten auf Kreuzung</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Maffeiplatz, Hummelstein</osmand:address>
+    </extensions>
+  </wpt>
+  <wpt lat="49.432934" lon="11.0834141">
+    <ele>314.5</ele>
+    <time>2025-07-03T18:46:40Z</time>
+    <name>Werbeschild hinten</name>
+    <type>Sensorideen</type>
+    <extensions>
+      <osmand:address>Momentane Trackaufzeichnung</osmand:address>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Sensorideen" color="#EECC22" icon="special_star" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

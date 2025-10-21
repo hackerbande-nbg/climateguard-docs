@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "heltec_htit-wb32")(type "KiCad")(uri "../lib/heltec_htit-wb32/heltec_htit-wb32.kicad_sym")(options "")(descr ""))
+)
