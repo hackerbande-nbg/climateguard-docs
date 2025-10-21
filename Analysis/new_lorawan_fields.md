@@ -68,6 +68,11 @@ _Reason for inclusion:_ Required to map channel usage, detect congestion, and en
 The Base64-encoded LoRaWAN payload before decoding.  
 _Reason for inclusion:_ Preserving the raw payload allows for decoder reprocessing if parsing logic changes or new sensor firmware introduces modified formats.
 
+### `gateway_id`
+
+the garthering gateway of the message
+_Reason for inclusion:_ Check which gateways are relevant for transmission.
+
 ### `rssi`
 
 Received Signal Strength Indicator in dBm. Reflects the total signal power measured at the gateway's radio front-end during reception.  
@@ -127,7 +132,3 @@ _Reason for exclusion:_ Used for fine-grained timing correlation; adds no busine
 ## LoRAWAN Timing Diagram
 
 ![alt text](image.png)
-
-## Sample Payload
-
-[new_lorawan_fields-sample.json](new_lorawan_fields-sample.json)
