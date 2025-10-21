@@ -1,0 +1,117 @@
+{
+  "name": "as.up.data.forward",
+  "time": "2025-10-21T18:33:01.519859310Z",
+  "identifiers": [
+    {
+      "device_ids": {
+        "device_id": "annapark-25",
+        "application_ids": {
+          "application_id": "climateguard"
+        },
+        "dev_eui": "EB9E139C00002C1E",
+        "join_eui": "0000000000000000",
+        "dev_addr": "260B638B"
+      }
+    }
+  ],
+  "data": {
+    "@type": "type.googleapis.com/ttn.lorawan.v3.ApplicationUp",
+    "end_device_ids": {
+      "device_id": "annapark-25",
+      "application_ids": {
+        "application_id": "climateguard"
+      },
+      "dev_eui": "EB9E139C00002C1E",
+      "join_eui": "0000000000000000",
+      "dev_addr": "260B638B"
+    },
+    "correlation_ids": ["gs:uplink:01K840QJ4141XVSDZ5RQTD3DJ3"],
+    "received_at": "2025-10-21T18:33:01.517798259Z",
+    "uplink_message": {
+      "session_key_id": "AZoB22t1uirbjC1fbIQiXg==",
+      "f_port": 2,
+      "f_cnt": 175,
+      "frm_payload": "AQWLIJMBed8Big==",
+      "decoded_payload": {
+        "humidity": 83.39,
+        "pressure": 967.35,
+        "temperature": 14.19,
+        "version": 1,
+        "voltage": 3.94
+      },
+      "rx_metadata": [
+        {
+          "gateway_ids": {
+            "gateway_id": "stmarkus-nbg",
+            "eui": "3235313218004F00"
+          },
+          "time": "2025-10-21T18:32:16.001910Z",
+          "timestamp": 3968905052,
+          "rssi": -111,
+          "channel_rssi": -111,
+          "snr": -12.75,
+          "location": {
+            "latitude": 49.43049723544551,
+            "longitude": 11.069194972515106,
+            "altitude": 309,
+            "source": "SOURCE_REGISTRY"
+          },
+          "uplink_token": "ChoKGAoMc3RtYXJrdXMtbmJnEggyNTEyGABPABDc3sLkDhoMCN2j38cGEN2My5QBIOD+s6nB+6QB",
+          "channel_index": 4,
+          "received_at": "2025-10-21T18:33:01.287824572Z"
+        },
+        {
+          "gateway_ids": {
+            "gateway_id": "eui-ac1f09fffe0b8e69",
+            "eui": "AC1F09FFFE0B8E69"
+          },
+          "time": "2025-10-21T18:33:01.262476Z",
+          "timestamp": 3255676895,
+          "rssi": -115,
+          "channel_rssi": -115,
+          "snr": -10.5,
+          "location": {
+            "latitude": 49.45792,
+            "longitude": 11.09068,
+            "altitude": 300,
+            "source": "SOURCE_REGISTRY"
+          },
+          "uplink_token": "CiIKIAoUZXVpLWFjMWYwOWZmZmUwYjhlNjkSCKwfCf/+C45pEN/ftpAMGgwI3aPfxwYQkN2HlgEgmP7bq+C3DSoLCN2j38cGEOChlH0=",
+          "gps_time": "2025-10-21T18:33:01.262476Z",
+          "received_at": "2025-10-21T18:33:01.280767265Z"
+        }
+      ],
+      "settings": {
+        "data_rate": {
+          "lora": {
+            "bandwidth": 125000,
+            "spreading_factor": 11,
+            "coding_rate": "4/5"
+          }
+        },
+        "frequency": "867300000",
+        "timestamp": 3968905052,
+        "time": "2025-10-21T18:32:16.001910Z"
+      },
+      "received_at": "2025-10-21T18:33:01.314055541Z",
+      "confirmed": true,
+      "consumed_airtime": "0.823296s",
+      "network_ids": {
+        "net_id": "000013",
+        "ns_id": "EC656E0000000181",
+        "tenant_id": "ttn",
+        "cluster_id": "eu1",
+        "cluster_address": "eu1.cloud.thethings.network"
+      }
+    }
+  },
+  "correlation_ids": ["gs:uplink:01K840QJ4141XVSDZ5RQTD3DJ3"],
+  "origin": "ip-10-100-15-206.eu-west-1.compute.internal",
+  "context": {
+    "tenant-id": "CgN0dG4="
+  },
+  "visibility": {
+    "rights": ["RIGHT_APPLICATION_TRAFFIC_READ"]
+  },
+  "unique_id": "01K840QJAFMKYRDP7573TTCENB"
+}
