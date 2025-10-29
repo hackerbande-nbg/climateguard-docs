@@ -59,8 +59,12 @@ Discharge capacities have been estimated based on the 2A discharge. While this i
 
 ### Data Quality Conclusions
 
+- In Scope: 2 energy consumption modes, transfer and deep sleep
+
 - The calculations should be quite precise in regards to the relative consumptions
-- The calculations skew towards a lower absolute energy consumption due to the lower discharge rate than the curve
+
+- The calculations skew towards a lower absolute energy consumption for both modes due to the lower discharge rate than the curve
+
 - Although both sensors have the same physical location, differences in network quality can be observed. This is possibly due network site adjustments to reduce the airtime
 
 ## 4. Calculation and Conclusions
@@ -101,7 +105,7 @@ calculating P[s]:
 - 329,1mAh = 191 \* P[s]
 - P[s] = 1,72mAh
 
-Final Result:
+### Final Result
 
 - P[s] = 1,72mAh
 - P[t] ~= 0,1618mAh
@@ -110,3 +114,8 @@ given a 10 min transfer interval, this results in
 
 - 1,72mAh / 64% power consumption for deep sleep
 - 0,971mAh / 36% power consumption for signal transfer
+
+### Conclusion
+
+- quite a lot of energy is consumed during deep sleep
+- a ~20% deployment lifetime improvement can be achieved by halving the transfer rate
