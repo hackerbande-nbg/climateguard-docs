@@ -97,7 +97,7 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 | **Name**             | Klaus Weber                                                                |
 | **Alter**            | 54                                                                          |
 | **Beruf**            | Vertriebsmitarbeiter (Teilzeit)                                             |
-| **Wohnort**          | München-Neuhausen (Mietwohnung im 3. Stock ohne Balkon)                    |
+| **Wohnort**          | Nürnberg-Ronhof (Mietwohnung im 3. Stock ohne Balkon)                    |
 | **Familienstand**    | Geschieden, 2 erwachsene Kinder (wohnen nicht mehr zu Hause)                |
 | **Bildung**          | Realschulabschluss, kaufmännische Ausbildung                               |
 | **Technikaffinität** | **Grundkenntnisse** (Smartphone, Laptop, gelegentlich Tablet)               |
