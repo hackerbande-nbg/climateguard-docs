@@ -17,7 +17,7 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 | **Schwerpunkte**     | Vernetzung, Multiplikator:innen-Schulung, Bürgerdialoge, Social Media       |
 | **Zielgruppen**      | Lokale Initiativen, Lehrer:innen, Sozialarbeiter:innen, Quartiersmanager:innen |
 
-## **Aufgaben & Ziele**
+## **Motivation & Bedürfnisse**
 - **Vernetzung** zwischen Stadtverwaltung, NGOs und Wissenschaft .
 - **Schulung von Multiplikator:innen**: Workshops für Lehrer:innen, Sozialarbeiter:innen und Quartiersmanager:innen zu Hitzeinseln und Anpassungsmaßnahmen.
 - **Organisation von Bürgerdialogen** .
@@ -44,7 +44,7 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 | **Technik-Fokus**    | Open-Source-Hardware/Software, Datenvisualisierung, Langzeitanalysen        |
 | **Community**        | Aktives Mitglied in lokalen Maker-Spaces und Open-Source-Projekten          |
 
-## **Aufgaben & Ziele**
+## **Motivation & Bedürfnisse**
 
 ### **🔧 Aktuelles Projekt: Offener Temperatur-Sensor mit Tiefenanalyse**
 - **Ziel:**
@@ -66,12 +66,12 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 | **Rolle**            | Leiter der Abteilung **Klimagerechte Stadtentwicklung**                     |
 | **Arbeitgeber**      | **Stadtplanungsamt München** (Referat für Stadtklima und Umwelt)            |
 | **Ausbildung**       | Diplom-Geograf, Promotion in **Urbaner Klimatologie** (TU Berlin)           |
-| **Schwerpunkte**     | Hitzeinseln, Schwammstadt-Prinzip, grüne Infrastruktur, datengetriebene Planung |
+| **Schwerpunkte**     | Hitzeinseln, Schwammstadt-Prinzip, grüne Infrastruktur, datengetriebene Planung im kommunalen Umfeld|
 | **Motto**            | *"Städte müssen nicht nur lebenswert, sondern auch klimaresilient sein – und das schaffen wir nur mit Daten und Partizipation."* |
 | **Herausforderung**  | Balance zwischen **dichter Bebauung**, **Klimaschutz** und **wirtschaftlichen Interessen** |
 | **Datenquellen**     | Satellitenbilder, IoT-Sensoren, Bürgerwissenschaft (*Citizen Science*), historische Klimadaten |
 
-## **Aufgaben & Ziele**
+## **Motivation & Bedürfnisse**
 
 ### **🌆 Klimagerechte Stadtentwicklung**
 - **Hitzeinseln identifizieren & entschärfen:**
@@ -83,3 +83,38 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 - **Datenbasierte Entscheidungen:**
   - **Echtzeit-Monitoring** von Mikroklima, Luftqualität und Bodenfeuchtigkeit
   - **Szenario-Simulationen** (z. B.: *"Was passiert, wenn wir 20% der Parkplätze entsiegeln?"*)
+
+---
+
+# Persona: Klaus Weber – Der interessierte Laie
+
+*Ein durchschnittlicher Bürger, der sich für Klimathemen interessiert, aber keine Expertise hat – wenn die Informationen verständlich und zugänglich sind, engagiert er sich.*
+
+
+## **Steckbrief**
+| **Attribut**         | **Details**                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| **Name**             | Klaus Weber                                                                |
+| **Alter**            | 54                                                                          |
+| **Beruf**            | Vertriebsmitarbeiter (Teilzeit)                                             |
+| **Wohnort**          | München-Neuhausen (Mietwohnung im 3. Stock ohne Balkon)                    |
+| **Familienstand**    | Geschieden, 2 erwachsene Kinder (wohnen nicht mehr zu Hause)                |
+| **Bildung**          | Realschulabschluss, kaufmännische Ausbildung                               |
+| **Technikaffinität** | **Grundkenntnisse** (Smartphone, Laptop, gelegentlich Tablet)               |
+| **Mediennutzung**    | **Lokale Tageszeitung**, **Facebook**, **BR24-App**, gelegentlich **YouTube** |
+| **Interessen**       | **Garten (Balkonpflanzen)**, **Stadtgeschichte**, **Wandern**, **Lokale Politik** |
+| **Einstellung zu Klima** | *"Ich finde das Thema wichtig, aber ich verstehe oft nicht, was ich konkret tun kann – oder ob es überhaupt etwas bringt."* |
+
+## **Motivation & Bedürfnisse**
+
+### **🌱 Warum interessiert er sich für Klimadaten?**
+- **Persönliche Betroffenheit:**
+  - *"Im letzten Sommer war meine Wohnung nachts über 30°C heiß – da konnte ich kaum schlafen!"*
+  - *"Die alten Bäume in unserer Straße wurden gefällt, seitdem ist es noch heißer."*
+- **Lokale Bezüge:**
+  - Interessiert sich für **seine direkte Umgebung** (z. B. *"Wie kühl ist der Westpark wirklich?"*).
+  - Will wissen, **was die Stadt konkret plant** – aber ohne Fachchinesisch.
+- **Pragmatische Fragen:**
+  - *"Wo finde ich Schatten auf meinem Spazierweg?"*
+  - *"Bringt es etwas, wenn ich meine Balkonpflanzen öfter gieße?"*
+  - *"Kann ich irgendwo mitmachen, ohne viel Zeit zu investieren?"*
