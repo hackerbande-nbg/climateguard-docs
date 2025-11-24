@@ -51,3 +51,35 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
   - **Selbst-Bau eines Sensors** inklusive Speicherung der Daten 
   - **Tiefgehende Datenanalyse** der Daten
   - **Langzeitvergleiche** (z. B. Jahreszeiten-Effekte, Einfluss von anderen Effekten)
+
+---
+
+# Persona: Dr. Felix Hartmann – Stadtplaner für klimaresiliente Urbanisierung
+
+*Ein visionärer Stadtentwickler, der Daten, Bürgerbeteiligung und grüne Infrastruktur kombiniert, um Städte an den Klimawandel anzupassen.*
+
+## **Steckbrief**
+| **Attribut**         | **Details**                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| **Name**             | Dr. Felix Hartmann                                                         |
+| **Alter**            | 42                                                                          |
+| **Rolle**            | Leiter der Abteilung **Klimagerechte Stadtentwicklung**                     |
+| **Arbeitgeber**      | **Stadtplanungsamt München** (Referat für Stadtklima und Umwelt)            |
+| **Ausbildung**       | Diplom-Geograf, Promotion in **Urbaner Klimatologie** (TU Berlin)           |
+| **Schwerpunkte**     | Hitzeinseln, Schwammstadt-Prinzip, grüne Infrastruktur, datengetriebene Planung |
+| **Motto**            | *"Städte müssen nicht nur lebenswert, sondern auch klimaresilient sein – und das schaffen wir nur mit Daten und Partizipation."* |
+| **Herausforderung**  | Balance zwischen **dichter Bebauung**, **Klimaschutz** und **wirtschaftlichen Interessen** |
+| **Datenquellen**     | Satellitenbilder, IoT-Sensoren, Bürgerwissenschaft (*Citizen Science*), historische Klimadaten |
+
+## **Aufgaben & Ziele**
+
+### **🌆 Klimagerechte Stadtentwicklung**
+- **Hitzeinseln identifizieren & entschärfen:**
+  - Analyse von **Oberflächentemperaturen** (via Satellitendaten + eigene Sensornetzwerke)
+  - Entwicklung von **Kühlkorridoren** (grüne Achsen, Wasserflächen, helle Oberflächen)
+- **Schwammstadt-Konzept umsetzen:**
+  - **Versickerungsflächen**, **Regenwassermanagement**, **entiegelte Böden**
+  - Pilotprojekte in **Neubaugebieten** und **Nachverdichtungszonen**
+- **Datenbasierte Entscheidungen:**
+  - **Echtzeit-Monitoring** von Mikroklima, Luftqualität und Bodenfeuchtigkeit
+  - **Szenario-Simulationen** (z. B.: *"Was passiert, wenn wir 20% der Parkplätze entsiegeln?"*)
