@@ -6,7 +6,6 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 # Persona: Lisa Meier – Netzwerkerin & Multiplikatorin für Klimaanpassung
 
 *Eine engagierte Stadt Angestellte, die bezüglich Umwelt etwas bewegen will*
----
 ## **Steckbrief**
 | **Attribut**         | **Details**                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
@@ -17,8 +16,6 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 | **Ausbildung**       | Master in Umweltwissenschaften (Uni Bayreuth), Klimakommunikation (Wuppertal Institut) |
 | **Schwerpunkte**     | Vernetzung, Multiplikator:innen-Schulung, Bürgerdialoge, Social Media       |
 | **Zielgruppen**      | Lokale Initiativen, Lehrer:innen, Sozialarbeiter:innen, Quartiersmanager:innen |
-
----
 
 ## **Aufgaben & Ziele**
 - **Vernetzung** zwischen Stadtverwaltung, NGOs und Wissenschaft .
@@ -34,7 +31,7 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 
 *Ein Hobby-Elektroniker, der seine Umweltdaten selbst erfasst und auf offenen Plattformen tiefgehend auswertet.*
 
----
+
 ## **Steckbrief**
 | **Attribut**         | **Details**                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
@@ -47,12 +44,10 @@ Fiktive Personas für einen theoretischen Stakeholder in der Stadt.
 | **Technik-Fokus**    | Open-Source-Hardware/Software, Datenvisualisierung, Langzeitanalysen        |
 | **Community**        | Aktives Mitglied in lokalen Maker-Spaces und Open-Source-Projekten          |
 
----
-
 ## **Aufgaben & Ziele**
 
 ### **🔧 Aktuelles Projekt: Offener Temperatur-Sensor mit Tiefenanalyse**
 - **Ziel:**
-  - **Selbst Bau eines Sensors**
+  - **Selbst-Bau eines Sensors** inklusive Speicherung der Daten 
   - **Tiefgehende Datenanalyse** der Daten
   - **Langzeitvergleiche** (z. B. Jahreszeiten-Effekte, Einfluss von anderen Effekten)
