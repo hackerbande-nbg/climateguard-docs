@@ -1,4 +1,5 @@
 # Table Overview
+<img width="943" height="1155" alt="db_diagram" src="https://github.com/user-attachments/assets/e1823fa9-3ff8-4193-8f0e-379427fb9bb5" />
 
 ## device
 
